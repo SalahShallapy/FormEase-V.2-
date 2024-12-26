@@ -1,8 +1,24 @@
-# FormEase (V.2)
+<div id="top"></div>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://formease-95d4c.web.app/">
+    <img src="./src/assets/logo.jpg" alt="Logo" height="80"  >
+  </a>
+  <h1 align="center">FormEase (V.2)</h1>
+
+  <p align="center">
+    <a href="https://formease-95d4c.web.app/">View Demo</a>
+    ·
+    <a href="https://github.com/SalahShallapy/FormEase-V.2-/issues">Report Bug</a>
+  </p>
+</div>
 
 FormEase (V.2) builds upon the foundation of the original FormEase, introducing a new approach to user input handling by leveraging the form action built-in feature. This version streamlines form processing and state management, making the application more robust and aligned with modern practices.
 
@@ -39,7 +55,7 @@ FormEase (V.2) builds upon the foundation of the original FormEase, introducing 
 ## Project Structure
 
 ```
-PlacePicker
+FormEase (V.2)
 │      .gitignore
 │      .vite.config
 │      index.html
